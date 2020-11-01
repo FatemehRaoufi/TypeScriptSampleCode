@@ -1,0 +1,33 @@
+//Install TypeScript via npm:
+
+npm install -g typescript
+npx tsc
+
+//.................
+
+//Install TypeScript via Visual Studio:
+
+Install-Package Microsoft.TypeScript.MSBuild
+
+//......................
+
+Compile a File:
+
+tsc my.ts
+
+//...................
+//Show Watch window and Save Change and Complye Automat
+
+tsc -w my.ts
+
+//...............
+Add Extension: HTML Snippets :
+doc Enter : Add Standard Tags 
+//..............
+
+Add tsconfig.json as saving setting typescript compiler
+Compliler with using this setting complie our programm.
+
+//..................................
+
+Alt +Shift + F ==> arrange codes
